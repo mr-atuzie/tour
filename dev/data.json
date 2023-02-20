@@ -1,0 +1,44 @@
+[
+  {
+    "name": "The walk through Egbeda",
+    "duration": 15,
+    "maxGroupSize": 30,
+    "difficulty": "easy",
+    "ratingAverage": 5,
+    "ratingQuantity": 25,
+    "price": 3500,
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus eu ex in ultricies. Curabitur et dignissim tortor, eu porttitor mauris. ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus eu ex in ultricies. Curabitur et dignissim tortor, eu porttitor mauris. Phasellus porta laoreet ex ut placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque finibus, arcu quis tempus luctus, orci urna consectetur ante, non egestas lectus massa eget purus.",
+    "imageCover": "img Cover",
+    "images": ["img1", "img2", "img3"],
+    "startDates": ["2022-01-05,10:00", "2022-01-10,09:00", "2022-01-08,11:00"]
+  },
+  {
+    "name": "East west road travels , down to PH",
+    "duration": 15,
+    "maxGroupSize": 7,
+    "difficulty": "easy",
+    "ratingAverage": 5,
+    "ratingQuantity": 25,
+    "price": 13500,
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus eu ex in ultricies. Curabitur et dignissim tortor, eu porttitor mauris. ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus eu ex in ultricies. Curabitur et dignissim tortor, eu porttitor mauris. Phasellus porta laoreet ex ut placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque finibus, arcu quis tempus luctus, orci urna consectetur ante, non egestas lectus massa eget purus.",
+    "imageCover": "img Cover",
+    "images": ["img1", "img2", "img3"],
+    "startDates": ["2022-01-05,10:00", "2022-01-10,09:00", "2022-01-08,11:00"]
+  },
+  {
+    "name": "Yaba to Ikeja through Sheraton",
+    "duration": 15,
+    "maxGroupSize": 7,
+    "difficulty": "easy",
+    "ratingAverage": 5,
+    "ratingQuantity": 25,
+    "price": 500,
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus eu ex in ultricies. Curabitur et dignissim tortor, eu porttitor mauris. ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus eu ex in ultricies. Curabitur et dignissim tortor, eu porttitor mauris. Phasellus porta laoreet ex ut placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque finibus, arcu quis tempus luctus, orci urna consectetur ante, non egestas lectus massa eget purus.",
+    "imageCover": "img Cover",
+    "images": ["img1", "img2", "img3"],
+    "startDates": ["2022-01-05,10:00", "2022-01-10,09:00", "2022-01-08,11:00"]
+  }
+]
